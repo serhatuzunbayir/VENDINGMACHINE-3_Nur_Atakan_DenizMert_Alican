@@ -1,0 +1,44 @@
+C:\Users\UmutBasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\bin\Debug\Vendor_Machine.exe.config
+C:\Users\UmutBasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\bin\Debug\Vendor_Machine.exe
+C:\Users\UmutBasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\bin\Debug\Vendor_Machine.pdb
+C:\Users\UmutBasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.Form1.resources
+C:\Users\UmutBasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.Properties.Resources.resources
+C:\Users\UmutBasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\obj\Debug\Vending_Machine.csproj.GenerateResource.Cache
+C:\Users\UmutBasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.exe
+C:\Users\UmutBasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.pdb
+C:\Users\Atakan\Desktop\VendingMachine-2-Beste_Umut_Mert-master\VendingMachine-2-Beste_Umut_Mert-master\Vending_Machine(Project-File)\Vendor_Machine\Vendor_Machine\bin\Debug\Vendor_Machine.exe.config
+C:\Users\Atakan\Desktop\VendingMachine-2-Beste_Umut_Mert-master\VendingMachine-2-Beste_Umut_Mert-master\Vending_Machine(Project-File)\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.exe
+C:\Users\Atakan\Desktop\VendingMachine-2-Beste_Umut_Mert-master\VendingMachine-2-Beste_Umut_Mert-master\Vending_Machine(Project-File)\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.pdb
+C:\Users\Atakan\Desktop\VendingMachine-2-Beste_Umut_Mert-master\VendingMachine-2-Beste_Umut_Mert-master\Vending_Machine(Project-File)\Vendor_Machine\Vendor_Machine\bin\Debug\Vendor_Machine.exe
+C:\Users\Atakan\Desktop\VendingMachine-2-Beste_Umut_Mert-master\VendingMachine-2-Beste_Umut_Mert-master\Vending_Machine(Project-File)\Vendor_Machine\Vendor_Machine\bin\Debug\Vendor_Machine.pdb
+C:\Users\Atakan\Desktop\VendingMachine-2-Beste_Umut_Mert-master\VendingMachine-2-Beste_Umut_Mert-master\Vending_Machine(Project-File)\Vendor_Machine\Vendor_Machine\obj\Debug\Vending_Machine.csprojResolveAssemblyReference.cache
+C:\Users\Atakan\Desktop\VendingMachine-2-Beste_Umut_Mert-master\VendingMachine-2-Beste_Umut_Mert-master\Vending_Machine(Project-File)\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.Form1.resources
+C:\Users\Atakan\Desktop\VendingMachine-2-Beste_Umut_Mert-master\VendingMachine-2-Beste_Umut_Mert-master\Vending_Machine(Project-File)\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.Properties.Resources.resources
+C:\Users\Atakan\Desktop\VendingMachine-2-Beste_Umut_Mert-master\VendingMachine-2-Beste_Umut_Mert-master\Vending_Machine(Project-File)\Vendor_Machine\Vendor_Machine\obj\Debug\Vending_Machine.csproj.GenerateResource.Cache
+C:\Users\Atakan\Desktop\Vendor_Machine\Vendor_Machine\bin\Debug\Vendor_Machine.exe.config
+C:\Users\Atakan\Desktop\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.exe
+C:\Users\Atakan\Desktop\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.pdb
+C:\Users\Atakan\Desktop\Vendor_Machine\Vendor_Machine\bin\Debug\Vendor_Machine.exe
+C:\Users\Atakan\Desktop\Vendor_Machine\Vendor_Machine\bin\Debug\Vendor_Machine.pdb
+C:\Users\Atakan\Desktop\Vendor_Machine\Vendor_Machine\obj\Debug\Vending_Machine.csprojResolveAssemblyReference.cache
+C:\Users\Atakan\Desktop\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.Form1.resources
+C:\Users\Atakan\Desktop\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.Properties.Resources.resources
+C:\Users\Atakan\Desktop\Vendor_Machine\Vendor_Machine\obj\Debug\Vending_Machine.csproj.GenerateResource.Cache
+C:\Users\Atakan\Desktop\Vendor_Machine - Kopya\Vending_Machine_Atakan_Alican_Denizmert_Nur\bin\Debug\Vendor_Machine.exe.config
+C:\Users\Atakan\Desktop\Vendor_Machine - Kopya\Vending_Machine_Atakan_Alican_Denizmert_Nur\obj\Debug\Vendor_Machine.exe
+C:\Users\Atakan\Desktop\Vendor_Machine - Kopya\Vending_Machine_Atakan_Alican_Denizmert_Nur\obj\Debug\Vendor_Machine.pdb
+C:\Users\Atakan\Desktop\Vendor_Machine - Kopya\Vending_Machine_Atakan_Alican_Denizmert_Nur\bin\Debug\Vendor_Machine.exe
+C:\Users\Atakan\Desktop\Vendor_Machine - Kopya\Vending_Machine_Atakan_Alican_Denizmert_Nur\bin\Debug\Vendor_Machine.pdb
+C:\Users\Atakan\Desktop\Vendor_Machine - Kopya\Vending_Machine_Atakan_Alican_Denizmert_Nur\obj\Debug\Vending_Machine.csprojResolveAssemblyReference.cache
+C:\Users\Atakan\Desktop\Vendor_Machine - Kopya\Vending_Machine_Atakan_Alican_Denizmert_Nur\obj\Debug\Vendor_Machine.Form1.resources
+C:\Users\Atakan\Desktop\Vendor_Machine - Kopya\Vending_Machine_Atakan_Alican_Denizmert_Nur\obj\Debug\Vendor_Machine.Properties.Resources.resources
+C:\Users\Atakan\Desktop\Vendor_Machine - Kopya\Vending_Machine_Atakan_Alican_Denizmert_Nur\obj\Debug\Vending_Machine.csproj.GenerateResource.Cache
+C:\Users\Atakan\Desktop\Vendor_Machine\Vending_Machine_Atakan_Alican_Denizmert_Nur\bin\Debug\Vendor_Machine.exe.config
+C:\Users\Atakan\Desktop\Vendor_Machine\Vending_Machine_Atakan_Alican_Denizmert_Nur\obj\Debug\Vendor_Machine.exe
+C:\Users\Atakan\Desktop\Vendor_Machine\Vending_Machine_Atakan_Alican_Denizmert_Nur\obj\Debug\Vendor_Machine.pdb
+C:\Users\Atakan\Desktop\Vendor_Machine\Vending_Machine_Atakan_Alican_Denizmert_Nur\bin\Debug\Vendor_Machine.exe
+C:\Users\Atakan\Desktop\Vendor_Machine\Vending_Machine_Atakan_Alican_Denizmert_Nur\bin\Debug\Vendor_Machine.pdb
+C:\Users\Atakan\Desktop\Vendor_Machine\Vending_Machine_Atakan_Alican_Denizmert_Nur\obj\Debug\Vending_Machine.csprojResolveAssemblyReference.cache
+C:\Users\Atakan\Desktop\Vendor_Machine\Vending_Machine_Atakan_Alican_Denizmert_Nur\obj\Debug\Vendor_Machine.Form1.resources
+C:\Users\Atakan\Desktop\Vendor_Machine\Vending_Machine_Atakan_Alican_Denizmert_Nur\obj\Debug\Vendor_Machine.Properties.Resources.resources
+C:\Users\Atakan\Desktop\Vendor_Machine\Vending_Machine_Atakan_Alican_Denizmert_Nur\obj\Debug\Vending_Machine.csproj.GenerateResource.Cache

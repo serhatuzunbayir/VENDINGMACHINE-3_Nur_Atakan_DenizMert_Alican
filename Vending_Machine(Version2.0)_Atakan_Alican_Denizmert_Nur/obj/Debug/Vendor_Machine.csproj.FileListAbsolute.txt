@@ -1,0 +1,9 @@
+c:\users\umutbasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\bin\Debug\Vendor_Machine.exe.config
+c:\users\umutbasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\bin\Debug\Vendor_Machine.exe
+c:\users\umutbasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\bin\Debug\Vendor_Machine.pdb
+c:\users\umutbasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.Form1.resources
+c:\users\umutbasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.Properties.Resources.resources
+c:\users\umutbasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.csproj.GenerateResource.Cache
+c:\users\umutbasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.exe
+c:\users\umutbasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.pdb
+C:\Users\UmutBasaran\documents\visual studio 2013\Projects\Vendor_Machine\Vendor_Machine\obj\Debug\Vendor_Machine.csprojResolveAssemblyReference.cache
